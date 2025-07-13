@@ -28,7 +28,7 @@ A fully functional invoice application built with Vue 3, Vuex, and Firebase—
 
     (Optional) Auth: Firebase Authentication (email/password, Google, etc.)
 
-    Styling: CSS or Sass (depending on original tutorial)
+    Styling: CSS or Sass
 
 🧭 App Flow Overview
 
