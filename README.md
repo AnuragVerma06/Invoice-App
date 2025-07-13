@@ -76,6 +76,4 @@ You can deploy via platforms like Firebase Hosting, Vercel, or Netlify:
 
 🧾 License
 
-Specify your preferred license here, for example:
-
 MIT License
