@@ -1,8 +1,7 @@
-##Vue Invoice App
+# Vue Invoice App
 
-A fully functional invoice application built with Vue 3, Vuex, and Firebase—featuring full CRUD (Create, Read, Update, Delete) capabilities. Based on the tutorial by John Komarnicki on YouTube
-X (formerly Twitter)+10YouTube+10YouTube+10
-.
+A fully functional invoice application built with Vue 3, Vuex, and Firebase—featuring full CRUD (Create, Read, Update, Delete) capabilities.
+
 🚀 Features
 
     Invoice management: Create, view, edit, delete invoices.
