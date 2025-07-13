@@ -17,10 +17,8 @@ A fully functional invoice application built with Vue 3, Vuex, and Firebase—
     .
 
     Responsive UI: Built with Vue 3’s Composition API; easy to extend and customize.
-
-<pre> ```text vue-invoice-app/ ├── public/ │ └── index.html ├── src/ │ ├── assets/ # Images, styles │ ├── components/ # Invoice list, form, etc. │ ├── store/ # Vuex store modules │ ├── views/ # Page-level views │ ├── App.vue │ └── main.js # Firebase init ├── .eslintrc.js ├── package.json └── README.md ``` </pre>
-
-(Adjust paths as your actual repo dictates)
+    
+<pre> ```text vue-invoice-app/ ├── public/ │ └── index.html ├── src/ │ ├── assets/ # Static assets like images and styles │ ├── components/ # Reusable Vue components (e.g., InvoiceList, Nav) │ ├── store/ # Vuex store modules (e.g., invoices.js) │ ├── views/ # Route-based views (Dashboard, InvoiceDetail) │ ├── App.vue # Root Vue component │ └── main.js # App entry point, Firebase initialization ├── .eslintrc.js # Linting configuration ├── babel.config.js # Babel setup ├── package.json # Project metadata and dependencies └── README.md # Project documentation ``` </pre>
 
 
 🛠️ Local Setup & Development
